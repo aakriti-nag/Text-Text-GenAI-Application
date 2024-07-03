@@ -7,3 +7,5 @@ Open new terminal
 2. conda activate venv/
 3. pip install -r requirements.txt 
 4. streamlit run applic.py
+
+This is how the application looks like:
