@@ -1,6 +1,7 @@
 # Text-Text-GenAI-Application
 
 Steps to follow:
+
 Open new terminal
 1. conda create -p venv python==3.10 -y
 2. conda activate venv/
